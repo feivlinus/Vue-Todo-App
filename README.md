@@ -2,8 +2,8 @@
 
 I wanted to practice vue and made a small todo app which basicly is just a form and a list. To pimp it up i tried to implement vuetify(ui library).
 
-[vue](https://vuejs.org/)
-[vuetify ui library](https://vuetifyjs.com/)
+- [vue](https://vuejs.org/)
+- [vuetify ui library](https://vuetifyjs.com/)
 
 ## Recommended IDE Setup
 
